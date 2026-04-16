@@ -32,7 +32,7 @@ const MODEL_MAPPING = {
   'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
   'seed-oss': 'bytedance/seed-oss-36b-instruct',
   'kimi-k2': 'moonshotai/kimi-k2-instruct-0905',
-  'mistral-large': 'mistralai/mistral-large-3-675b-instruct-2512'
+  'mistral-large': 'mistralai/mistral-large-3-675b-instruct-2512',
 };
 
 // Health check endpoint
