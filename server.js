@@ -28,10 +28,10 @@ const MODEL_MAPPING = {
   'gpt-4o': 'deepseek-ai/deepseek-v3.2',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
-  'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking'
-  'step-3.5-flash': 'stepfun-ai/step-3.5-flash'
-  'seed-oss': 'bytedance/seed-oss-36b-instruct'
-  'kimi-k2': 'moonshotai/kimi-k2-instruct-0905'
+  'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking',
+  'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
+  'seed-oss': 'bytedance/seed-oss-36b-instruct',
+  'kimi-k2': 'moonshotai/kimi-k2-instruct-0905',
   'mistral-large': 'mistralai/mistral-large-3-675b-instruct-2512'
 };
 
