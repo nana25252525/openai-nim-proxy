@@ -33,7 +33,7 @@ const MODEL_MAPPING = {
   'nvidia-4': 'llama-4-maverick-17b-128e-instruct',
   'minmax-m': 'minimaxai/minimax-m2.7',
   'glm': 'z-ai/glm-4.7',
-  'nemo:' 'nvidia/llama-3_2-nemoretriever-300m-embed-v1',
+  'nemo': 'nvidia/llama-3_2-nemoretriever-300m-embed-v1',
 };
 
 // Health check endpoint
