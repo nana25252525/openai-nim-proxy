@@ -28,7 +28,7 @@ const MODEL_MAPPING = {
   'gpt-4o': 'deepseek-ai/deepseek-v4-flash',
   'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
   'seed-oss': 'bytedance/seed-oss-36b-instruct',
-  'kimi-k2': 'moonshotai/kimi-k2-instruct-0905',
+  'kimi-k2': 'moonshotai/kimi-k2.6',
   'nvidia-4': 'llama-4-maverick-17b-128e-instruct',
   'minmax-m': 'minimaxai/minimax-m2.7',
   'glm': 'z-ai/glm-4.7',
