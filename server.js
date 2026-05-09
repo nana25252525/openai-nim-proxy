@@ -26,7 +26,6 @@ const MODEL_MAPPING = {
   'gpt-4': 'qwen/qwen3-next-80b-a3b-thinking',
   'gpt-4-turbo': 'nemotron-3-super-120b-a12b',
   'gpt-4o': 'deepseek-ai/deepseek-v4-flash',
-  'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking',
   'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
   'seed-oss': 'bytedance/seed-oss-36b-instruct',
   'kimi-k2': 'moonshotai/kimi-k2-instruct-0905',
