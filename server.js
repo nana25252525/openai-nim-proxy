@@ -22,9 +22,10 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
-  'gpt-3.5-turbo': 'nvidia/nemotron-mini-4b-instruct',
-  'gpt-4': 'qwen/qwen3-next-80b-a3b-thinking',
-  'gpt-4-turbo': 'nemotron-3-super-120b-a12b',
+  'deepseek-pro': 'deepseek-ai/deepseek-v4-pro',
+  'qwen': 'qwen/qwen3.5-397b-a17b',
+  'nemotron-nano': 'nvidia/nemotron-3-nano-30b-a3b',
+  'nemotron-ultra': 'nemotron-3-ultra-550b-a55b',
   'gpt-4o': 'deepseek-ai/deepseek-v4-flash',
   'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
   'seed-oss': 'bytedance/seed-oss-36b-instruct',
