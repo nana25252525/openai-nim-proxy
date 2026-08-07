@@ -22,18 +22,20 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
-  'deepseek-pro': 'deepseek-ai/deepseek-v4-pro',
-  'qwen': 'qwen/qwen3.5-397b-a17b',
-  'nemotron-nano': 'nvidia/nemotron-3-nano-30b-a3b',
-  'nemotron-ultra': 'nemotron-3-ultra-550b-a55b',
-  'gpt-4o': 'deepseek-ai/deepseek-v4-flash',
-  'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
+  'qwen': 'qwen/qwen3-next-80b-a3b-instruct',
+  'nemotron-nano': 'nvidia/nvidia-nemotron-nano-9b-v2',
+  'nemotron-super': 'nvidia/nemotron-3-super-120b-a12b',
+  'llama-3.2-3b': 'meta/llama-3.2-3b-instruct',
+  'llama-3.2-1b': 'meta/llama-3.2-1b-instruct',
+  'llama-3.1-70b': 'meta/llama-3.1-70b-instruct',
+  'llama-3.1-8b': 'meta/llama-3.1-8b-instruct',
+  'gpt-oss': 'openai/gpt-oss-120b',
+  'oss-20b': 'openai/gpt-oss-20b',
+  'inkling': 'thinkingmachines/inkling',
+  'step-flash': 'stepfun-ai/step-3.7-flash',
   'seed-oss': 'bytedance/seed-oss-36b-instruct',
-  'kimi-k2': 'moonshotai/kimi-k2.6',
-  'nvidia-4': 'llama-4-maverick-17b-128e-instruct',
-  'minmax-m': 'minimaxai/minimax-m2.7',
-  'glm': 'z-ai/glm-4.7',
-  'nemo': 'nvidia/llama-3_2-nemoretriever-300m-embed-v1'
+  'minmax-m': 'minimaxai/minimax-m3',
+  'glm': 'z-ai/glm-5.2'
 };
 
 // Health check endpoint
