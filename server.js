@@ -25,6 +25,7 @@ const MODEL_MAPPING = {
   'qwen': 'qwen/qwen3-next-80b-a3b-instruct',
   'muse': 'meta/muse-glimmer-30b',
   'deepseek-v4': 'deepseek-ai/deepseek-v4-flash-0731',
+  'deepseek-pro': 'deepseekai/deepseek-v4-pro-0813',
   'nemotron-nano': 'nvidia/nvidia-nemotron-nano-9b-v2',
   'nemotron-super': 'nvidia/nemotron-3-super-120b-a12b',
   'gpt-oss': 'openai/gpt-oss-120b',
