@@ -26,7 +26,7 @@ const MODEL_MAPPING = {
   'deepseek-v4': 'deepseek-ai/deepseek-v4-flash-0731',
   'muse': 'meta/muse-glimmer-30b',
   'nemotron-ultra': 'nvidia/nemotron-3-ultra-550b-a55b',
-  'gpt-oss': 'openai/gpt-oss-120b',
+  'gpt-oss': 'openai/gpt-oss-20b',
   'nemotron-lightning': 'nvidia/nemotron-3.5-lightning-30b-a3b'
 };
 
