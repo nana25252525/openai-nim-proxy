@@ -28,7 +28,7 @@ const MODEL_MAPPING = {
   'nemotron-ultra': 'nvidia/nemotron-3-ultra-550b-a55b',
   'gpt-oss': 'openai/gpt-oss-20b',
   'nemotron-lightning': 'nvidia/nemotron-3.5-lightning-30b-a3b',
-  'glm': 'z-ai/glm-5-3'
+  'glm': 'z-ai/glm-5-3-flash'
 };
 
 // Health check endpoint
