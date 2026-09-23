@@ -23,7 +23,7 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 // Model mapping (adjust based on available NIM models)
 const MODEL_MAPPING = {
   'kimi': 'moonshotai/kimi-k3',
-  'deepseek-v4': 'deepseek-ai/deepseek-v4-flash-0731',
+  'deepseek-v4': 'deepseek-ai/deepseek-v4.1-flash',
   'muse': 'meta/muse-glimmer-30b',
   'nemotron-ultra': 'nvidia/nemotron-3-ultra-550b-a55b',
   'gpt-oss': 'openai/gpt-oss-20b',
