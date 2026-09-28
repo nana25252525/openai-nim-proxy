@@ -24,10 +24,10 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 const MODEL_MAPPING = {
   'kimi': 'moonshotai/kimi-k3',
   'deepseek-v4': 'deepseek-ai/deepseek-v4.1-flash',
-  'muse': 'meta/muse-glimmer-30b',
+  'gemma': 'google/gemma-4-31b-it',
   'nemotron-ultra': 'nvidia/nemotron-3-ultra-550b-a55b',
-  'gpt-oss': 'openai/gpt-oss-20b',
   'nemotron-lightning': 'nvidia/nemotron-3.5-lightning-30b-a3b',
+  'nemotron-super': 'nvidia/nemotron-3-super-120b-a12b',
   'glm': 'z-ai/glm-5-3-flash'
 };
 
