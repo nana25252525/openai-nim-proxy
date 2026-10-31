@@ -29,7 +29,8 @@ const MODEL_MAPPING = {
   'nemotron-lightning': 'nvidia/nemotron-3.5-lightning-30b-a3b',
   'nemotron-super': 'nvidia/nemotron-3-super-120b-a12b',
   'glm': 'z-ai/glm-5-3-flash',
-  'stepfun': 'stepfun-ai/step-5-preview'
+  'stepfun': 'stepfun-ai/step-5-preview',
+  'minmax': 'mistralai/mistral-large-4-1t-a52b'
 };
 
 // Health check endpoint
